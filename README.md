@@ -1,6 +1,6 @@
 # wagmicn.web3hacker.world
 
-We translate the [Nuxt Docs](https://github.com/wagmi-dev/wagmi/tree/main/docs/pages/core) into Chinese here.
+We translate the [wagmi Docs](https://github.com/wagmi-dev/wagmi/tree/main/docs/pages/core) into Chinese here.
 
 It will auto sync the docs to the `content/en` folder, then we make manual translate into the `content/zh` folder.
 
