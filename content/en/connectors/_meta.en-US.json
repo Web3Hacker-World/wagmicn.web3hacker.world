@@ -1,0 +1,10 @@
+{
+  "injected": "Injected",
+  "coinbaseWallet": "Coinbase Wallet",
+  "ledger": "Ledger",
+  "metaMask": "MetaMask",
+  "mock": "Mock",
+  "safe": "Safe",
+  "walletConnect": "WalletConnect",
+  "walletConnectLegacy": "WalletConnect Legacy"
+}
